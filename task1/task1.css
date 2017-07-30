@@ -1,0 +1,13 @@
+p { 
+  text-indent: 2em;
+}
+body {
+  margin-top: 50px;
+}
+.bg-color {
+  background-color: #D8D8D8;
+  padding : 20px;
+}
+.more-info {
+  font-size : 20px;
+}
